@@ -9,7 +9,7 @@ app.use('/abc', movies);
 
 
 app.get('/', (req,res) => {
-    res.send('HI I'M KARISHMA!!');
+    res.send('HI I AM KARISHMA!!');
 })
 
 
